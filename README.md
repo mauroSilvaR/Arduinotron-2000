@@ -3,10 +3,10 @@ This Project aims to create a replica of the Pip Boy 3000 ( from the Fallout gam
 
 Requirements:
 1)Hardware
-1x arduino board (currently works with nano, so any board you have will probably be enough.)
-1x 16x2 LCD display
+-1x arduino board (currently works with nano, so any board you have will probably be enough.)
+-1x 16x2 LCD display
 2)Software
-Python
-newest arduino IDE
-tkinter
+-Python
+-newest arduino IDE
+-tkinter
 
